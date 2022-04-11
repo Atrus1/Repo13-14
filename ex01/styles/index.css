@@ -1,0 +1,68 @@
+.gallery {
+  margin: 0px;
+
+}
+.gallery img {
+  transition: 1s;
+  padding: 15px;
+  width: 200px;
+}
+  .slika1 {
+    position: relative;
+    top: 40px;
+    left: 300px;
+
+  }
+  .slika5 {
+    position: relative;
+    top: 10px;
+    left: 300px;
+  }
+    .slika8 {
+      position: relative;
+      top: -19px;
+      left: 300px;
+
+    }
+
+    .slika2 {
+      position: relative;
+      top: -580px;
+      left: 550px;
+    }
+
+    
+    .slika6 {
+      position: relative;
+      top: -609px;
+      left: 550px;
+    }
+
+    .slika3 {
+      position: relative;
+      top: -1080px;
+      left: 800px;
+    }
+    .slika7 {
+      position: relative;
+      top: -1109px;
+      left: 800px;
+    }
+
+    .slika9 {
+      position: relative;
+      top: -1138px;
+      left: 800px;
+    }
+
+    .slika4 {
+      position: relative;
+      top: -1750px;
+      left: 1050px;
+    }
+
+    .slika10 {
+      position: relative;
+      top: -1780px;
+      left: 1050px;
+    }
